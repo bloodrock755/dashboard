@@ -3832,7 +3832,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "silvermere"
+name = "silpan"
 version = "0.1.0"
 dependencies = [
  "slint",
